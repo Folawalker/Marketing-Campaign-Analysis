@@ -3,8 +3,6 @@ An analysis to determine the effectiveness of different campaign types run by a 
 # Table of Content
 - Project Overview
 - Dataset
-- Usage
-- Data Importation
 - Data Inspection
 - Data Cleaning
 - Exploratory Data Analysis
@@ -44,4 +42,13 @@ The main purpose of this analysis is to help determine the most effective advert
 - `Customer Segment`: Highlights the segment of customer/product
 - `CTR`: Click Through Rate
 - `CPC`: Cost Per Click
+
+# Data Inspection
+Data information was checked using `.info()` function on python and it helped confirm there were no missing values, also cnfirmed the datatypes, number of rows and columns.
+I printed the top 5 rows plus header to check what the dataset looked like as well.
+# Data Cleaning
+The dataset had been cleaned from excel before importing to python
+# Exploratory Data Analysis
+1. Descriptive Statistics
+
   

@@ -22,4 +22,26 @@ An analysis to determine the effectiveness of different campaign types run by a 
     - Across Campaign Types
   - Location Based Trends
 - Contributions
+
+# Project Overview
+The main purpose of this analysis is to help determine the most effective advertisement channels after the completion of a campaign. This is supposed to help make more effective targeted ads next time.
+
+# Dataset
+- `Campaign ID`: SN of the campaign
+- `Company`: Company running the campaign/ad
+- `Campaign Type`: Medium used for the campaign(Email, Influencer, etc..)
+- `Target Audience`: Gender and age group of intended ad viewer
+- `Duration`: Length of the campaign
+- `Channel Used`: Platform used for the campaign(google ads, youtube, etc..)
+- `Conversion Rate`: Pecentage of people who purchased an item directly from the ad
+- `Acquisition Cost`: Cost of running the ad in USD
+- `ROI`: Profit made from that specific transaction
+- `Location`: geographical location of ad
+- `Date`: Date of deployment
+- `Clicks`: Number of times the ad was clicked on
+- `Impressions`: Number of interactions the ad post got
+- `Engagement Score`: Measures how actively people interact with the ad
+- `Customer Segment`: Highlights the segment of customer/product
+- `CTR`: Click Through Rate
+- `CPC`: Cost Per Click
   

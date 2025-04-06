@@ -49,6 +49,6 @@ I printed the top 5 rows plus header to check what the dataset looked like as we
 # Data Cleaning
 The dataset had been cleaned from excel before importing to python
 # Exploratory Data Analysis
-##1. Descriptive Statistics
+## 1. Descriptive Statistics
 
   
